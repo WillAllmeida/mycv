@@ -43,7 +43,7 @@ career-profile:
      - +3 years of experience with full stack web development.
      - Adaptable to learn and work with new technologies.
      - Knowledge and experience with software team development.
-     - 2 years working with .NET platform(.NET Core, Azure, SQLServer, Entity Framework) and Angular
+     - 2.5+ years working with .NET platform(.NET Core, Azure, SQLServer, Entity Framework) and Angular
      - Experience with tools like Teams, Slack, Jira, Microsoft Planner.
 
 
@@ -87,10 +87,10 @@ skills:
 
     toolset:
       - name: C#
-        level: 70%
+        level: 75%
       
       - name: .NET Core/ASP NET
-        level: 60%
+        level: 65%
 
       - name: Azure Services
         level: 45%
@@ -112,6 +112,9 @@ skills:
 
       - name: Python
         level: 60%
+      
+      - name: Git
+        level: 90%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="https://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
