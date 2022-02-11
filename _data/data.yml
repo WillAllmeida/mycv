@@ -55,11 +55,12 @@ education:
 experiences:
     - role: Software Developer
       time: 2022 - Present
-      company: GFT, Brazil
-      details: - Working as full stack developer (.NET Core and Angular)
+      company: GFT Technologies, Brazil
+      details: |
+        - Working as full stack developer (.NET Core and Angular)
 
     - role: Software Developer
-      time: 2021 - Present
+      time: 2021 - 2022
       company: TIVIT, Brazil
       details: |
         - Maintenance and evolution of an internal analytics portal
