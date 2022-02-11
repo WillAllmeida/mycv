@@ -54,6 +54,11 @@ education:
 
 experiences:
     - role: Software Developer
+      time: 2022 - Present
+      company: GFT, Brazil
+      details: - Working as full stack developer (.NET Core and Angular)
+
+    - role: Software Developer
       time: 2021 - Present
       company: TIVIT, Brazil
       details: |
@@ -65,7 +70,7 @@ experiences:
       time: 2018 - 2020
       company: Scytl, Brazil
       details: |
-        - Work as full stack developer on big and critic projects, having experience with different
+        - Work as full-stack developer on big and critic projects, having experience with different
         technologies(mainly in .NET platform). 
         - Experience with concepts of software security and digital signature in the period working with
         maintenance of a digital signature SDK and supporting their clients.
