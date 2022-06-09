@@ -40,11 +40,12 @@ sidebar:
 career-profile:
     title: Resume
     summary: |
-     - +3 years of experience with full stack web development.
+     - ~4 years of experience with full stack web development.
      - Adaptable to learn and work with new technologies.
      - Knowledge and experience with software team development.
-     - 2.5+ years working with .NET platform(.NET Core, Azure, SQLServer, Entity Framework) and Angular
+     - ~3.5 years working with .NET platform(.NET Core, Azure, SQLServer, Entity Framework) and Angular.
      - Experience with tools like Teams, Slack, Jira, Microsoft Planner.
+     - Experience with devops tools like Azure, Jenkins, TeamCity.
 
 
 education:
@@ -57,7 +58,7 @@ experiences:
       time: 2022 - Present
       company: GFT Technologies, Brazil
       details: |
-        - Working as full stack developer (.NET Core and Angular)
+        - Development of a new project from a big company in banking sector (MongoDB, Redis, C#, .NET Core)
 
     - role: Software Developer
       time: 2021 - 2022
@@ -96,7 +97,7 @@ skills:
         level: 75%
       
       - name: .NET Core/ASP NET
-        level: 65%
+        level: 70%
 
       - name: Azure Services
         level: 45%
@@ -121,6 +122,9 @@ skills:
       
       - name: Git
         level: 90%
+      
+      - name: MongoDB
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="https://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
