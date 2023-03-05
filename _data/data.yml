@@ -56,6 +56,12 @@ education:
 experiences:
     - role: Software Developer
       time: 2022 - Present
+      company: GoFasti, USA
+      details: |
+        - Development of a new project from a big company in automotive sector (C#, Angular, SQL Server, .NET Core)
+        
+    - role: Software Developer
+      time: 2022 - December 2022
       company: GFT Technologies, Brazil
       details: |
         - Development of a new project from a big company in banking sector (MongoDB, Redis, C#, .NET Core)
