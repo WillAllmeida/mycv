@@ -40,10 +40,10 @@ sidebar:
 career-profile:
     title: Resume
     summary: |
-     - ~4 years of experience with full stack web development.
+     - ~5 years of experience with full stack web development.
      - Adaptable to learn and work with new technologies.
      - Knowledge and experience with software team development.
-     - ~3.5 years working with .NET platform(.NET Core, Azure, SQLServer, Entity Framework) and Angular.
+     - ~4.5 years working with .NET platform(.NET Core, Azure, SQLServer, Entity Framework) and Angular.
      - Experience with tools like Teams, Slack, Jira, Microsoft Planner.
      - Experience with devops tools like Azure, Jenkins, TeamCity.
 
@@ -58,7 +58,7 @@ experiences:
       time: 2022 - Present
       company: GoFasti, USA
       details: |
-        - Development of a new project from a big company in automotive sector (C#, Angular, SQL Server, .NET Core)
+        - Development of a new project from a big company in automotive sector (C#, Angular, SQL Server, .NET 7)
         
     - role: Software Developer
       time: 2022 - December 2022
@@ -106,13 +106,13 @@ skills:
         level: 70%
 
       - name: Azure Services
-        level: 45%
+        level: 50%
 
       - name: SQLServer/ MYSQL
         level: 80%
 
       - name: Javascript/Typescript
-        level: 65%
+        level: 70%
 
       - name: Angular 2+
         level: 70%
