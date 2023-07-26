@@ -1,4 +1,10 @@
 /* ======= Base ======= */
+@media (prefers-color-scheme: dark) {
+	body {
+		background-color: #0f0 !important;
+	}
+}
+
 body {
     font-family: 'Roboto', sans-serif;
     color: $text-color-secondary;
