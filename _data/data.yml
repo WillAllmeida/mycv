@@ -79,13 +79,13 @@ experiences:
       time: 2018 - 2020
       company: Scytl, Brazil
       details: |
-        - Work as full-stack developer on big and critic projects, having experience with different
+        - Work as full-stack developer on big and critical projects, having experience with different
         technologies(mainly in .NET platform). 
         - Experience with concepts of software security and digital signature in the period working with
         maintenance of a digital signature SDK and supporting their clients.
         - Delivered elections to big clients with more than 500k voters.
         - Developed platform to support some specific elections (ASP.NET MVC).
-        - Work as full stack in a online meetings project, from software validation to the development (Angular 2+ and .NET Core).
+        - Work as full stack in an online meetings project, from software validation to the development (Angular 2+ and .NET Core).
         - Experience developing VoIP platform for electronic voting using Asterisk, FastAGI and AsterNET.
         
 projects:
