@@ -8,9 +8,16 @@
 	   color: #d9eeff !important;
 	}
 
-	.main-wrapper a { 
-	   color: #5cb1ff !important;
+	.main-wrapper {
+		background-color: #3F3F3F;
+		a { 
+	   		color: #5cb1ff !important;
+		}
+		.section-title {
+           color: $theme-color;
+   		}
 	}
+		
 
 	.sidebar-wrapper {
 	   color: white !important;
@@ -23,14 +30,6 @@
 	.skillset .level-bar {
     	   background: #696969;
 	}
-
-	.main-wrapper {
-           background-color: #3F3F3F;
-   	}
-
-	.main-wrapper .section-title {
-           color: #42A8C0;
-   	}
 }
 
 
