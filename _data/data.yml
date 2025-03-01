@@ -40,10 +40,10 @@ sidebar:
 career-profile:
     title: Resume
     summary: |
-     - ~5 years of experience with full stack web development.
+     - ~7 years of experience with full stack web development.
      - Adaptable to learn and work with new technologies.
      - Knowledge and experience with software team development.
-     - ~4.5 years working with .NET platform(.NET Core, Azure, SQLServer, Entity Framework) and Angular.
+     - ~6.5 years working with .NET platform(.NET Core, Azure, SQLServer, Entity Framework) and Angular.
      - Experience with tools like Teams, Slack, Jira, Microsoft Planner.
      - Experience with devops tools like Azure, Jenkins, TeamCity.
 
@@ -55,7 +55,13 @@ education:
 
 experiences:
     - role: Software Engineer
-      time: 2022 - Present
+      time: 2023 - Present
+      company: Valtech
+      details: |
+        - Maintenance and evolution on some parts of the main product in an international client (.NET, Angular, SQL)
+        
+    - role: Software Engineer
+      time: 2022 - August 2023
       company: GoFasti, USA
       details: |
         - Maintenance and evolution on some parts of the main product (.NET Core 3, Angular)
