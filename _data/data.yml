@@ -59,6 +59,8 @@ experiences:
       company: Valtech
       details: |
         - Maintenance and evolution on some parts of the main product in an international client (.NET, Angular, SQL)
+        - Migrate multiple projects from on-oprem to Azure hybrid topology
+        - Create a new .NET component to facilitate communication between existing and next-gen platforms
         
     - role: Software Engineer
       time: 2022 - August 2023
