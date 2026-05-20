@@ -3,27 +3,27 @@
 #
 
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False
+    education: True
 
     # Profile information
     name: William Almeida
     tagline: Software Engineer
-    avatar: pic.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: pic.png
 
     # Sidebar links
     email: will.allmeida@gmail.com
     phone: 
-    website: will.dev.br #do not add https://
+    website: will.dev.br
     linkedin: william-allmeida
     github: WillAllmeida
-    telegram: # add your nickname without '@' sign
+    telegram: 
     gitlab: WillAlmeida
     bitbucket:
     twitter: 
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    stack-overflow: 
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    goodreads: 
 
     languages:
       - idiom: English
@@ -35,18 +35,15 @@ sidebar:
       - idiom: Spanish
         level: Intermediate
 
-    
-
 career-profile:
     title: Resume
     summary: |
-     - ~7 years of experience with full stack web development.
-     - Adaptable to learn and work with new technologies.
-     - Knowledge and experience with software team development.
-     - ~6.5 years working with .NET platform(.NET Core, Azure, SQLServer, Entity Framework) and Angular.
-     - Experience with tools like Teams, Slack, Jira, Microsoft Planner.
-     - Experience with devops tools like Azure, Jenkins, TeamCity.
-
+     - ~8 years of experience in full-stack web development
+     - Adaptable and quick to learn new technologies
+     - Experienced in collaborative software team development
+     - ~7.5 years working with .NET platform (.NET Core, Azure, SQL Server, Entity Framework) and Angular
+     - Skilled with collaboration tools like Teams, Slack, Jira, Microsoft Planner
+     - Experienced with DevOps tools including Azure DevOps, Jenkins, TeamCity
 
 education:
     - degree: BSc in Software Engineering
@@ -58,76 +55,85 @@ experiences:
       time: 2023 - Present
       company: Valtech
       details: |
-        - Maintenance and evolution on some parts of the main product in an international client (.NET, Angular, SQL)
-        - Migrate multiple projects from on-oprem to Azure hybrid topology
-        - Create a new .NET component to facilitate communication between existing and next-gen platforms
-        
+        - Maintained and evolved parts of the main product for an international client (.NET, Angular, SQL)
+        - Migrated multiple projects from on-premises to Azure hybrid topology
+        - Created a new .NET component to facilitate communication between existing and next-gen platforms
+
     - role: Software Engineer
       time: 2022 - August 2023
       company: GoFasti, USA
       details: |
-        - Maintenance and evolution on some parts of the main product (.NET Core 3, Angular)
-        - Development of a new project from a big company in automotive sector (C#, Angular, SQL Server, .NET 7, Entity Framework)
-        
+        - Worked at an IT services and consulting company specializing in providing Latin American talent for global projects
+        - Conducted maintenance and evolved specific sections of the main product using .NET Core 3, JavaScript, SQL Server, Angular.js, Ajax, and Angular
+        - Led the restructuring of a monolithic product section into a new project, implementing modern architecture and technologies to boost performance
+        - Documented processes and code to enrich the knowledge base and support future development
+        - Led the development of a new project for a major automotive company, utilizing C#, Angular, SQL Server, .NET 7, and Entity Framework
+        - Worked with Azure services including Azure DevOps Pipelines, KeyVault, and Azure Functions
+        - Applied expertise in C#, Angular, Angular.js, JavaScript, Ajax, SQL Server, .NET, .NET Core, Entity Framework, and Azure across multiple projects
+
     - role: Software Developer
       time: 2022 - December 2022
       company: GFT Technologies, Brazil
       details: |
-        - Development of a new project from a big company in banking sector (MongoDB, Redis, C#, .NET Core, Kibana)
+        - Worked for a digital transformation pioneer developing sustainable solutions with AI and blockchain/DLT
+        - Developed significant portions of the back-end for a mobile investments application, enabling account managers to manage client assets effectively
+        - Maintained cross-team applications and integrated code to ensure seamless operation with existing systems
+        - Contributed to production deployment meetings, real-time bug fixes, and environment monitoring to enhance stability
+        - Led the development of a new project for a major banking client, delivering robust and reliable solutions tailored to industry needs
+        - Utilized MongoDB, Redis, C#, JavaScript, Node.js, .NET Core, and Kibana across multiple projects
 
     - role: Software Developer
       time: 2021 - 2022
       company: TIVIT, Brazil
       details: |
-        - Maintenance and evolution of an internal analytics portal
-        - Restructuring the CI/CD process of Crisis Portal
-        - Restructuring the Crisis Portal with new technologies (.NET5 and Angular 11)
-    
+        - Worked for a Brazil-based multinational company offering enterprise-level digital solutions across ten Latin American countries
+        - Spearheaded the development of a data analytics portal for infrastructure support, tracking meantime issue resolution and open case status
+        - Restructured the Crisis Portal using C#, .NET 5, Angular 11, MySQL, TypeScript, JavaScript, and Node.js
+        - Conducted routine maintenance and initiated restructuring efforts, updating technologies, refining CI/CD pipelines, and optimizing architecture
+        - Managed ongoing maintenance and evolution of an internal analytics portal to ensure continuous functionality
+        - Revamped the CI/CD process for the Crisis Portal, streamlining development and deployment for improved efficiency
+        - Led a major overhaul of the Crisis Portal, introducing .NET 5 and Angular 11 to modernize the platform
+        - Applied expertise in C#, .NET 5, JavaScript, TypeScript, Node.js, MySQL, and Angular 11 across multiple projects
+
     - role: Software Developer
       time: 2018 - 2020
       company: Scytl, Brazil
       details: |
-        - Work as full-stack developer on big and critical projects, having experience with different
-        technologies(mainly in .NET platform). 
-        - Experience with concepts of software security and digital signature in the period working with
-        maintenance of a digital signature SDK and supporting their clients.
-        - Delivered elections to big clients with more than 500k voters.
-        - Developed platform to support some specific elections (ASP.NET MVC).
-        - Work as full stack in an online meetings project, from software validation to the development (Angular 2+ and .NET Core).
-        - Experience developing VoIP platform for electronic voting using Asterisk, FastAGI and AsterNET.
-        
+        - Worked as a full-stack developer on large and critical projects, primarily using the .NET platform
+        - Gained experience in software security and digital signatures while maintaining a digital signature SDK and supporting clients
+        - Delivered election projects to major clients with more than 500k voters
+        - Developed a platform to support specific elections (ASP.NET MVC)
+        - Worked as a full-stack developer on an online meetings project, from validation to development (Angular 2+ and .NET Core)
+        - Developed a VoIP platform for electronic voting using Asterisk, FastAGI, and AsterNET
+
 projects:
     title: Projects
     assignments:
       - title: Performance Client
         link: "https://github.com/WillAllmeida/performance_client"
-        tagline: "As final course project, I developed a performance testing client to Confidential Consortium Framework library (.NET 5 and Python)."
-          
+        tagline: "Developed a performance testing client for the Confidential Consortium Framework library (.NET 5 and Python) as a final course project."
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills & Proficiency
 
     toolset:
       - name: C#
-        level: 75%
+        level: 85%
       
       - name: .NET Core/ASP NET
-        level: 70%
-
-      - name: Azure Services
-        level: 50%
-
-      - name: SQLServer/ MYSQL
         level: 80%
 
-      - name: Javascript/Typescript
+      - name: Azure Services
+        level: 75%
+
+      - name: SQLServer/MySQL
+        level: 80%
+
+      - name: JavaScript/TypeScript
         level: 70%
 
-      - name: Angular 2+
+      - name: Angular (JS & 2+)
         level: 70%
-
-      - name: Angular JS
-        level: 60%
 
       - name: HTML5 & CSS
         level: 60%
