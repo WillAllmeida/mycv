@@ -1,5 +1,12 @@
 {% assign sidebar = site.data.data.sidebar %}
 <div class="sidebar-wrapper">
+
+  <div class="lang-switcher">
+    <button class="lang-btn active" id="btn-en" onclick="setLang('en')">EN</button>
+    <span class="lang-divider">|</span>
+    <button class="lang-btn" id="btn-pt" onclick="setLang('pt')">PT</button>
+  </div>
+
   <div class="profile-container">
 
     {% if sidebar.name %}
@@ -13,11 +20,6 @@
     {% if sidebar.tagline %}
     <h3 class="tagline">{{ sidebar.tagline }}</h3>
     {% endif %}
-
-    <div id="lang-switch" class="lang-switch">
-      <button onclick="setLang('en')">EN</button>
-      <button onclick="setLang('pt')">PT</button>
-    </div>
 
   </div><!--//profile-container-->
 
