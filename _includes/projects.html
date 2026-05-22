@@ -28,9 +28,10 @@
         {% endif %}
       </span>
 
-      {% if project.tagline %}
-      - <span class="project-tagline">{{ project.tagline }}</span>
-      {% endif %}
+  {% if project.tagline-en %}
+  - <span class="project-tagline" data-lang="en">{{ project.tagline-en }}</span>
+    <span class="project-tagline" data-lang="pt">{{ project.tagline-pt }}</span>
+  {% endif %}
 
     </div><!--//item-->
   {% endfor %}
