@@ -36,7 +36,8 @@ sidebar:
         level: Intermediate
 
 career-profile:
-    title: Resume
+    title-en: Resume
+    title-pt: Currículo
     summary: |
      - ~8 years of experience in full-stack web development
      - Adaptable and quick to learn new technologies
