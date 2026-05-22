@@ -1,11 +1,10 @@
 {% assign sidebar = site.data.data.sidebar %}
 <div class="sidebar-wrapper">
+  <div class="profile-container">
   <div id="lang-switch" style="position: fixed; top: 20px; right: 20px; z-index: 999;">
     <button onclick="setLang('en')">EN</button>
     <button onclick="setLang('pt')">PT</button>
   </div>
-  <div class="profile-container">
-
     {% if sidebar.name %}
     <img class="avatar" src="{{ site.baseurl }}/assets/images/{{ sidebar.avatar }}" alt="profile picture" />
     {% endif %}
