@@ -27,14 +27,20 @@ sidebar:
     goodreads: 
 
     languages:
-      - idiom: English
-        level: Conversational
-
-      - idiom: Portuguese
-        level: Native
-
-      - idiom: Spanish
-        level: Intermediate
+      - idiom-en: English
+        idiom-pt: Inglês
+        level-en: Conversational
+        level-pt: Conversacional
+    
+      - idiom-en: Portuguese
+        idiom-pt: Português
+        level-en: Native
+        level-pt: Nativo
+    
+      - idiom-en: Spanish
+        idiom-pt: Espanhol
+        level-en: Intermediate
+        level-pt: Intermediário
 
 career-profile:
     title-en: Resume
@@ -48,8 +54,10 @@ career-profile:
      - Experienced with DevOps tools including Azure DevOps, Jenkins, TeamCity
 
 education:
-    - degree: BSc in Software Engineering
-      university: University of Brasilia
+    - degree-en: BSc in Software Engineering
+      degree-pt: Bacharelado em Engenharia de Software
+      university-en: University of Brasilia
+      university-pt: Universidade de Brasília
       time: 2016 - 2021
 
 experiences:
