@@ -33,6 +33,9 @@ function setLang(lang) {
     document.querySelectorAll('[data-lang]').forEach(function(el) {
         el.style.display = el.getAttribute('data-lang') === lang ? '' : 'none';
     });
+
+    var titles = { en: 'Resume - William Almeida', pt: 'Currículo - William Almeida' };
+    document.title = titles[lang];
 }
 
 // On page load, restore saved language preference (default: EN)
