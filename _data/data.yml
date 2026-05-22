@@ -68,18 +68,26 @@ education:
       time: 2016 - 2021
 
 experiences:
-    - role: Software Engineer
-      time: 2023 - Present
+    - role-en: Software Engineer
+      role-pt: Engenheiro de Software  
+      time-en: 2023 - Present      
+      time-pt: 2023 - Atualmente
       company: Valtech
-      details: |
+      details-en: |
         - Maintained and evolved parts of the main product for an international client (.NET, Angular, SQL)
         - Migrated multiple projects from on-premises to Azure hybrid topology
         - Created a new .NET component to facilitate communication between existing and next-gen platforms
-
-    - role: Software Engineer
-      time: 2022 - August 2023
+      details-br: |
+        - Mantive e evoluí partes do produto principal para um cliente internacional (.NET, Angular, SQL)
+        - Migrei múltiplos projetos de ambientes locais para topologia híbrida no Azure
+        - Criei um novo componente em .NET para facilitar a comunicação entre plataformas existentes e de próxima geração
+        
+    - role-en: Software Engineer
+      role-pt: Engenheiro de Software
+      time-en: 2022 - August 2023
+      time-pt: 2022 - Agosto 2023
       company: GoFasti, USA
-      details: |
+      details-en: |
         - Worked at an IT services and consulting company specializing in providing Latin American talent for global projects
         - Conducted maintenance and evolved specific sections of the main product using .NET Core 3, JavaScript, SQL Server, Angular.js, Ajax, and Angular
         - Led the restructuring of a monolithic product section into a new project, implementing modern architecture and technologies to boost performance
@@ -87,22 +95,41 @@ experiences:
         - Led the development of a new project for a major automotive company, utilizing C#, Angular, SQL Server, .NET 7, and Entity Framework
         - Worked with Azure services including Azure DevOps Pipelines, KeyVault, and Azure Functions
         - Applied expertise in C#, Angular, Angular.js, JavaScript, Ajax, SQL Server, .NET, .NET Core, Entity Framework, and Azure across multiple projects
-
-    - role: Software Developer
-      time: 2022 - December 2022
+      details-br: |
+        - Atuei em uma empresa de serviços e consultoria de TI especializada em fornecer talentos latino-americanos para projetos globais
+        - Realizei manutenção e evolução de seções específicas do produto principal utilizando .NET Core 3, JavaScript, SQL Server, Angular.js, Ajax e Angular
+        - Liderei a reestruturação de uma seção monolítica em um novo projeto, implementando arquitetura moderna e tecnologias para aumentar a performance
+        - Documentei processos e código para enriquecer a base de conhecimento e apoiar o desenvolvimento futuro
+        - Liderei o desenvolvimento de um novo projeto para uma grande empresa automotiva, utilizando C#, Angular, SQL Server, .NET 7 e Entity Framework
+        - Trabalhei com serviços Azure incluindo Azure DevOps Pipelines, KeyVault e Azure Functions
+        - Apliquei expertise em C#, Angular, Angular.js, JavaScript, Ajax, SQL Server, .NET, .NET Core, Entity Framework e Azure em múltiplos projetos
+        
+    - role-en: Software Developer
+      role-pt: Desenvolvedor de Software
+      time-en: 2022 - December 2022
+      time-pt: 2022 - Dezembro 2022
       company: GFT Technologies, Brazil
-      details: |
+      details-en: |
         - Worked for a digital transformation pioneer developing sustainable solutions with AI and blockchain/DLT
         - Developed significant portions of the back-end for a mobile investments application, enabling account managers to manage client assets effectively
         - Maintained cross-team applications and integrated code to ensure seamless operation with existing systems
         - Contributed to production deployment meetings, real-time bug fixes, and environment monitoring to enhance stability
         - Led the development of a new project for a major banking client, delivering robust and reliable solutions tailored to industry needs
         - Utilized MongoDB, Redis, C#, JavaScript, Node.js, .NET Core, and Kibana across multiple projects
+      details-br: |
+        - Atuei em uma empresa pioneira em transformação digital desenvolvendo soluções sustentáveis com IA e blockchain/DLT
+        - Desenvolvi partes significativas do back-end de um aplicativo móvel de investimentos, permitindo que gerentes de contas administrassem ativos de clientes de forma eficaz
+        - Mantive aplicações entre equipes e integrei código para garantir operação contínua com sistemas existentes
+        - Contribuí em reuniões de implantação, correções em tempo real e monitoramento de ambiente para aumentar a estabilidade
+        - Liderei o desenvolvimento de um novo projeto para um grande cliente bancário, entregando soluções robustas e confiáveis adaptadas às necessidades da indústria
+        - Utilizei MongoDB, Redis, C#, JavaScript, Node.js, .NET Core e Kibana em múltiplos projetos
 
-    - role: Software Developer
-      time: 2021 - 2022
+    - role-en: Software Developer
+      role-pt: Desenvolvedor de Software
+      time-en: 2021 - 2022
+      time-pt: 2021 - 2022
       company: TIVIT, Brazil
-      details: |
+      details-en: |
         - Worked for a Brazil-based multinational company offering enterprise-level digital solutions across ten Latin American countries
         - Spearheaded the development of a data analytics portal for infrastructure support, tracking meantime issue resolution and open case status
         - Restructured the Crisis Portal using C#, .NET 5, Angular 11, MySQL, TypeScript, JavaScript, and Node.js
@@ -111,17 +138,35 @@ experiences:
         - Revamped the CI/CD process for the Crisis Portal, streamlining development and deployment for improved efficiency
         - Led a major overhaul of the Crisis Portal, introducing .NET 5 and Angular 11 to modernize the platform
         - Applied expertise in C#, .NET 5, JavaScript, TypeScript, Node.js, MySQL, and Angular 11 across multiple projects
-
-    - role: Software Developer
-      time: 2018 - 2020
+      details-br: |
+        - Trabalhei em uma multinacional brasileira oferecendo soluções digitais corporativas em dez países da América Latina
+        - Liderei o desenvolvimento de um portal de análise de dados para suporte de infraestrutura, acompanhando tempo médio de resolução e status de casos abertos
+        - Reestruturei o Portal de Crises usando C#, .NET 5, Angular 11, MySQL, TypeScript, JavaScript e Node.js
+        - Realizei manutenção rotineira e esforços de reestruturação, atualizando tecnologias, refinando pipelines de CI/CD e otimizando arquitetura
+        - Gerenciei manutenção contínua e evolução de um portal interno de análises para garantir funcionalidade contínua
+        - Revitalizei o processo de CI/CD do Portal de Crises, otimizando desenvolvimento e implantação para maior eficiência
+        - Liderei uma grande modernização do Portal de Crises, introduzindo .NET 5 e Angular 11
+        - Apliquei expertise em C#, .NET 5, JavaScript, TypeScript, Node.js, MySQL e Angular 11 em múltiplos projetos
+        
+    - role-en: Software Developer
+      role-pt: Desenvolvedor de Software
+      time-en: 2018 - 2020
+      time-pt: 2018 - 2020
       company: Scytl, Brazil
-      details: |
+      details-en: |
         - Worked as a full-stack developer on large and critical projects, primarily using the .NET platform
         - Gained experience in software security and digital signatures while maintaining a digital signature SDK and supporting clients
         - Delivered election projects to major clients with more than 500k voters
         - Developed a platform to support specific elections (ASP.NET MVC)
         - Worked as a full-stack developer on an online meetings project, from validation to development (Angular 2+ and .NET Core)
         - Developed a VoIP platform for electronic voting using Asterisk, FastAGI, and AsterNET
+      details-br: |
+        - Atuei como desenvolvedor full-stack em projetos grandes e críticos, principalmente usando a plataforma .NET
+        - Ganhei experiência em segurança de software e assinaturas digitais, mantendo um SDK de assinatura digital e dando suporte a clientes
+        - Entreguei projetos eleitorais para grandes clientes com mais de 500 mil eleitores
+        - Desenvolvi uma plataforma para apoiar eleições específicas (ASP.NET MVC)
+        - Atuei como desenvolvedor full-stack em um projeto de reuniões online, da validação ao desenvolvimento (Angular 2+ e .NET Core)
+        - Desenvolvi uma plataforma VoIP para votação eletrônica usando Asterisk, FastAGI e AsterNET
 
 projects:
     title-en: Projects
@@ -129,7 +174,8 @@ projects:
     assignments:
       - title: Performance Client
         link: "https://github.com/WillAllmeida/performance_client"
-        tagline: "Developed a performance testing client for the Confidential Consortium Framework library (.NET 5 and Python) as a final course project."
+        tagline-en: "Developed a performance testing client for the Confidential Consortium Framework library (.NET 5 and Python) as a final course project."
+        tagline-pt: "Desenvolvi um cliente de testes de performance para a biblioteca Confidential Consortium Framework (.NET 5 e Python) como TCC."
 
 skills:
     title-en: Skills & Proficiency
