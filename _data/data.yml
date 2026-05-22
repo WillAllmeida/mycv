@@ -45,13 +45,20 @@ sidebar:
 career-profile:
     title-en: Resume
     title-pt: Currículo
-    summary: |
+    summary-en: |
      - ~8 years of experience in full-stack web development
      - Adaptable and quick to learn new technologies
      - Experienced in collaborative software team development
      - ~7.5 years working with .NET platform (.NET Core, Azure, SQL Server, Entity Framework) and Angular
      - Skilled with collaboration tools like Teams, Slack, Jira, Microsoft Planner
      - Experienced with DevOps tools including Azure DevOps, Jenkins, TeamCity
+    summary-pt: |
+     - ~8 anos de experiência em desenvolvimento web full-stack
+     - Adaptável e rápido para aprender novas tecnologias
+     - Experiência em desenvolvimento colaborativo em equipes de software
+     - ~7,5 anos trabalhando com a plataforma .NET (.NET Core, Azure, SQL Server, Entity Framework) e Angular
+     - Habilidade com ferramentas de colaboração como Teams, Slack, Jira, Microsoft Planner
+     - Experiência com ferramentas de DevOps incluindo Azure DevOps, Jenkins, TeamCity
 
 education:
     - degree-en: BSc in Software Engineering
