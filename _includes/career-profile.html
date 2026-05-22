@@ -11,9 +11,12 @@
     <span data-lang="pt">{{ career-profile.title-pt }}</span>
   </h2>
 
-  <div class="summary">
-    {{ career-profile.summary | markdownify }}
-  </div><!--//summary-->
+  <div class="summary" data-lang="en">
+    {{ career-profile.summary-en | markdownify }}
+  </div>
+  <div class="summary" data-lang="pt">
+    {{ career-profile.summary-pt | markdownify }}
+  </div>
     
 </section><!--//section-->
 {% endif %}
