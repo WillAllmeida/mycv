@@ -1,50 +1,5 @@
 /* ======= Base ======= */
 // ==========================
-// Variáveis (ajuste se quiser)
-// ==========================
-$primary-color: #3b7f8c;
-$text-color: #ffffff;
-$glass-bg: rgba(255, 255, 255, 0.15);
-
-// ==========================
-// Language Switch
-// ==========================
-#lang-switch {
-  position: fixed;
-  top: 20px;
-  right: 20px;
-  z-index: 999;
-
-  display: flex;
-  padding: 4px;
-
-  background: $glass-bg;
-  border-radius: 20px;
-  backdrop-filter: blur(5px);
-
-  button {
-    border: none;
-    background: transparent;
-    color: $text-color;
-
-    padding: 6px 12px;
-    font-size: 12px;
-    border-radius: 16px;
-
-    cursor: pointer;
-    transition: all 0.2s ease;
-
-    &:hover {
-      opacity: 0.8;
-    }
-
-    &.active {
-      background: #ffffff;
-      color: $primary-color;
-      font-weight: bold;
-    }
-  }
-}
 
 body {
     font-family: 'Roboto', sans-serif;
@@ -318,4 +273,45 @@ p {
         color: $heart;
     }
 
+}
+
+/* ======= Language Switcher ======= */
+.lang-switcher {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 10px 16px 6px;
+    background: rgba(0, 0, 0, 0.15);
+    gap: 4px;
+}
+
+.lang-btn {
+    background: transparent;
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    color: rgba(255, 255, 255, 0.6);
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    padding: 3px 9px;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    line-height: 1.4;
+
+    &:hover {
+        border-color: rgba(255, 255, 255, 0.8);
+        color: #fff;
+    }
+
+    &.active {
+        background: rgba(255, 255, 255, 0.2);
+        border-color: rgba(255, 255, 255, 0.8);
+        color: #fff;
+    }
+}
+
+.lang-divider {
+    color: rgba(255, 255, 255, 0.3);
+    font-size: 12px;
+    user-select: none;
 }
