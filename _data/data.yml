@@ -8,7 +8,8 @@ sidebar:
 
     # Profile information
     name: William Almeida
-    tagline: Software Engineer
+    tagline-en: Software Engineer
+    tagline-pt: Engenheiro de Software
     avatar: pic.png
 
     # Sidebar links
@@ -108,14 +109,16 @@ experiences:
         - Developed a VoIP platform for electronic voting using Asterisk, FastAGI, and AsterNET
 
 projects:
-    title: Projects
+    title-en: Projects
+    title-pt: Projetos
     assignments:
       - title: Performance Client
         link: "https://github.com/WillAllmeida/performance_client"
         tagline: "Developed a performance testing client for the Confidential Consortium Framework library (.NET 5 and Python) as a final course project."
 
 skills:
-    title: Skills & Proficiency
+    title-en: Skills & Proficiency
+    title-pt: Habilidades & Proficiência
 
     toolset:
       - name: C#
