@@ -10,8 +10,12 @@
   <ul class="list-unstyled interests-list">
     {%for language in languages %}
     <li>
-      {{ language.idiom }}
-      <span class="lang-desc">({{ language.level }})</span>
+      <span data-lang="en">{{ language.idiom-en }}</span>
+      <span data-lang="pt">{{ language.idiom-pt }}</span>
+      <span class="lang-desc">
+      (<span data-lang="en">{{ language.level-en }}</span>
+        <span data-lang="pt">{{ language.level-pt }}</span>)
+    </span>
     </li>
     {% endfor %}
   </ul>
