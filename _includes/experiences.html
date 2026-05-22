@@ -12,24 +12,29 @@
 
   {% for experience in experiences %}
   <div class="item">
-
     <div class="meta">
-
       <div class="upper-row">
-        <h3 class="job-title">{{ experience.role }}</h3>
-        <div class="time">{{ experience.time }}</div>
+        <h3 class="job-title">
+          <span data-lang="en">{{ experience.role-en }}</span>
+          <span data-lang="pt">{{ experience.role-pt }}</span>
+        </h3>
+        <div class="time">
+          <span data-lang="en">{{ experience.time-en }}</span>
+          <span data-lang="pt">{{ experience.time-pt }}</span>
+        </div>
       </div><!--//upper-row-->
-
       <div class="company">{{ experience.company }}</div>
-
     </div><!--//meta-->
-
-    {% if experience.details %}
-    <div class="details">
-      {{ experience.details | markdownify }}
-    </div><!--//details-->
+  
+    {% if experience.details-en %}
+    <div class="details" data-lang="en">
+      {{ experience.details-en | markdownify }}
+    </div>
+    <div class="details" data-lang="pt">
+      {{ experience.details-pt | markdownify }}
+    </div>
     {% endif %}
-
+  
   </div><!--//item-->
   {% endfor %}
 
