@@ -77,7 +77,7 @@ experiences:
         - Maintained and evolved parts of the main product for an international client (.NET, Angular, SQL)
         - Migrated multiple projects from on-premises to Azure hybrid topology
         - Created a new .NET component to facilitate communication between existing and next-gen platforms
-      details-br: |
+      details-pt: |
         - Mantive e evoluí partes do produto principal para um cliente internacional (.NET, Angular, SQL)
         - Migrei múltiplos projetos de ambientes locais para topologia híbrida no Azure
         - Criei um novo componente em .NET para facilitar a comunicação entre plataformas existentes e de próxima geração
@@ -95,7 +95,7 @@ experiences:
         - Led the development of a new project for a major automotive company, utilizing C#, Angular, SQL Server, .NET 7, and Entity Framework
         - Worked with Azure services including Azure DevOps Pipelines, KeyVault, and Azure Functions
         - Applied expertise in C#, Angular, Angular.js, JavaScript, Ajax, SQL Server, .NET, .NET Core, Entity Framework, and Azure across multiple projects
-      details-br: |
+      details-pt: |
         - Atuei em uma empresa de serviços e consultoria de TI especializada em fornecer talentos latino-americanos para projetos globais
         - Realizei manutenção e evolução de seções específicas do produto principal utilizando .NET Core 3, JavaScript, SQL Server, Angular.js, Ajax e Angular
         - Liderei a reestruturação de uma seção monolítica em um novo projeto, implementando arquitetura moderna e tecnologias para aumentar a performance
@@ -116,7 +116,7 @@ experiences:
         - Contributed to production deployment meetings, real-time bug fixes, and environment monitoring to enhance stability
         - Led the development of a new project for a major banking client, delivering robust and reliable solutions tailored to industry needs
         - Utilized MongoDB, Redis, C#, JavaScript, Node.js, .NET Core, and Kibana across multiple projects
-      details-br: |
+      details-pt: |
         - Atuei em uma empresa pioneira em transformação digital desenvolvendo soluções sustentáveis com IA e blockchain/DLT
         - Desenvolvi partes significativas do back-end de um aplicativo móvel de investimentos, permitindo que gerentes de contas administrassem ativos de clientes de forma eficaz
         - Mantive aplicações entre equipes e integrei código para garantir operação contínua com sistemas existentes
@@ -138,7 +138,7 @@ experiences:
         - Revamped the CI/CD process for the Crisis Portal, streamlining development and deployment for improved efficiency
         - Led a major overhaul of the Crisis Portal, introducing .NET 5 and Angular 11 to modernize the platform
         - Applied expertise in C#, .NET 5, JavaScript, TypeScript, Node.js, MySQL, and Angular 11 across multiple projects
-      details-br: |
+      details-pt: |
         - Trabalhei em uma multinacional brasileira oferecendo soluções digitais corporativas em dez países da América Latina
         - Liderei o desenvolvimento de um portal de análise de dados para suporte de infraestrutura, acompanhando tempo médio de resolução e status de casos abertos
         - Reestruturei o Portal de Crises usando C#, .NET 5, Angular 11, MySQL, TypeScript, JavaScript e Node.js
@@ -160,7 +160,7 @@ experiences:
         - Developed a platform to support specific elections (ASP.NET MVC)
         - Worked as a full-stack developer on an online meetings project, from validation to development (Angular 2+ and .NET Core)
         - Developed a VoIP platform for electronic voting using Asterisk, FastAGI, and AsterNET
-      details-br: |
+      details-pt: |
         - Atuei como desenvolvedor full-stack em projetos grandes e críticos, principalmente usando a plataforma .NET
         - Ganhei experiência em segurança de software e assinaturas digitais, mantendo um SDK de assinatura digital e dando suporte a clientes
         - Entreguei projetos eleitorais para grandes clientes com mais de 500 mil eleitores
